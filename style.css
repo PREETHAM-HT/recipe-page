@@ -1,0 +1,157 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body background */
+body{
+    background-color: #f3e6d8;
+}
+
+/*headings font */
+h1,h2,h3 {
+    font-family:"Young Serif", serif;
+}
+/* over all p font */
+p{
+    font-family: "Outfit", sans-serif;
+}
+/* overall h2 color */
+h2{
+    color: #854632;
+}
+
+/* main container div=conatiner */
+.conatiner{
+    background-color: white;
+    margin:4rem auto ;
+    width: 735px;
+    border-radius: 12px;
+    padding: 2rem 2rem;
+}
+
+/* headong one  */
+h1{
+    color:  #302d2c;
+}
+
+/* image omleete */
+.omelette-img{
+    width: 670px;
+    border-radius: 12px;
+    margin-bottom: 2rem;
+}
+
+/* first paragraph */
+.first{ 
+    margin: 1rem 0;
+    color: #5f574e;
+}
+
+/* pink sub container */
+.sub-container{
+    background-color: #fff5fa;
+    width: 655px;
+    margin: 2rem 0;
+    border-radius: 12px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+/* inside sub container prep time and lists  */
+h3{
+    font-family: "Outfit", sans-serif;
+    color: #7b284f;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* lists */
+li{
+    margin: 1rem 2rem;
+    padding-left: 1rem;
+    color: #5f574e;
+    font-family: "Outfit", sans-serif;
+}
+
+/* to change the colour of marker  */
+li::marker{
+    color:   #7b284f ;
+}
+
+/*ingridents h2= ingredients */
+
+.ing{
+    margin-top: 1rem;
+}
+
+/* dividor */
+.divider{
+    background: #e2e2e2;
+    height: 1px ;
+    margin-top: 2rem;
+}
+
+.inst{
+    margin-top: 2rem;
+}
+
+.line2{
+    background: #e2e2e2;
+    height: 1px;
+    margin-top: 1rem;
+}
+
+.second{
+    color: #5f574e;
+    margin: 1rem 0;
+}
+
+.nut{
+    margin-top: 1rem ;
+}
+
+.cal{
+    margin: 1rem 1rem;
+   color: #5f574e;
+   word-spacing: 230px;
+}
+
+.carb{
+    margin: 1rem 1rem;
+    color: #5f574e;
+   word-spacing: 260px;   
+}
+
+.prot{
+    margin: 1rem 1rem;
+    color: #5f574e;
+   word-spacing: 250px; 
+}
+
+.fatt{
+    margin: 1rem 1rem;
+    color: #5f574e;
+   word-spacing: 280px; 
+   
+}
+/* 
+.highlight{
+        color: #7b284f;
+}
+
+.twoh{
+    color: #7b284f;
+}
+
+
+.threeh{
+    color: #7b284f;
+}
+
+.fourh{
+    color: #7b284f;
+} */
